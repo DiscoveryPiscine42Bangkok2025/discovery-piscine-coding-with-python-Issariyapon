@@ -5,5 +5,5 @@ if len(sys.argv) == 2:
 else:
     print("none")
 
-# cd "cell05/ex05"
+# cd "cell05/ex06"
 # python upcase_it.py "This exercise is quite easy!"

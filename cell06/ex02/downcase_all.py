@@ -5,6 +5,6 @@ def downcase_it(*args):
         for i in range(len(args)):
             print(args[i].lower())
 
-downcase_it()                               # none
-downcase_it("HELLO WORLD")                  # hello world
-downcase_it("HELLO", "WORLD")               # none
+downcase_it()
+downcase_it("HELLO WORLD")
+downcase_it("HELLO", "WORLD")

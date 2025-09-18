@@ -11,3 +11,6 @@ else:
         print(nums)
     except ValueError:
         print("none")
+
+# python free_range.py 10 14
+# python free_range.py 1 5

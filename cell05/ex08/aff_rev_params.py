@@ -7,5 +7,5 @@ else:
     for s in reversed(args):
         print(s)
 
-# python upcase_it.py "Python"
-# python upcase_it.py "Python" "piscine" "hello"
+# python aff_rev_params.py "Python"
+# python aff_rev_params.py "Python" "piscine" "hello"
